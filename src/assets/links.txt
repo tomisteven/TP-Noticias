@@ -1,0 +1,61 @@
+﻿Programación web. 
+HTML - JavaScript - JSON - AJAX.
+
+
+--
+www.w3schools.com
+https://www.w3schools.com/
+
+HTML Tutorial
+https://www.w3schools.com/html/default.asp
+
+JavaScript Tutorial
+https://www.w3schools.com/js/default.asp
+
+JSON - Introduction
+https://www.w3schools.com/js/js_json_intro.asp
+
+AJAX Introduction
+https://www.w3schools.com/js/js_ajax_intro.asp
+
+CSS Tutorial
+https://www.w3schools.com/css/default.asp
+
+Extra jQuery
+https://www.w3schools.com/js/js_jquery_selectors.asp
+https://www.w3schools.com/jquery/default.asp
+--
+
+developer.mozilla.org
+https://developer.mozilla.org
+(En https://developer.mozilla.org/es/ pueden encontrar traducciones de los mismos contenidos)
+
+HTML
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started
+
+JavaScript
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps
+
+JSON
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
+
+AJAX
+https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started
+
+CSS 
+https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps
+
+Extra
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data
+
+Firefox Developer Tools
+https://developer.mozilla.org/en-US/docs/Tools
+
+--
+Mapas utilizando Leaflet 
+https://leafletjs.com
+--
+Para trabajar con Diagramas 
+https://www.diagrams.net/ 
+(www.draw.io)

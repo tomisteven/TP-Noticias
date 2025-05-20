@@ -1,0 +1,7 @@
+Material:
+
+https://repo.ungs.edu.ar/s/88DxtqdRejPWtbS
+
+www.enterpriseintegrationpatterns.com
+www.enterpriseintegrationpatterns.com/patterns/messaging/
+--
