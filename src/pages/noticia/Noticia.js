@@ -13,7 +13,7 @@ export default function Noticia({ noticias, role }) {
   useEffect(() => {
     console.log(newNoticia);
 
-    if (newNoticia) {
+    if (newNoticia !== null) {
       const nuevaNoticia = JSON.parse(localStorage.getItem("formNewNoticia"));
       setNoticia(nuevaNoticia);
       console.log("nuevaNoticia", nuevaNoticia);
@@ -28,11 +28,13 @@ export default function Noticia({ noticias, role }) {
       }
     } else {
       const noticia = noticias.find((n) => n.id === parseInt(noticiaId));
+      setNoticia(noticia);
+
       if (!noticia) {
         console.warn("Noticia no encontrada");
       }
     }
-  }, [noticiaId, noticias, newNoticia, navigate]);
+  }, [noticiaId, noticias, newNoticia, navigate, noticia]);
 
   if (!noticias.length) {
     return <div className="detalle-noticia">Cargando noticia...</div>;
